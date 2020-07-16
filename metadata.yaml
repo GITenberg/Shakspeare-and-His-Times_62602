@@ -1,0 +1,52 @@
+_repo: Shakspeare-and-His-Times_62602
+_version: 0.0.1
+alternative_title: Shakspeare et son temps. English
+contributor:
+  contributor:
+    agent_name: Broglie, Achille-Léon-Victor, duc de
+    aliases:
+    - De Broglie, Achille-Léon-Victor
+    - Broglie, Achille-Leon-Victor, duc de
+    - Broglie, duc de (Achille-Léon-Victor)
+    birthdate: 1785
+    deathdate: 1870
+    gutenberg_agent_id: '51957'
+    url: http://www.gutenberg.org/2009/agents/51957
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Victor_de_Broglie_(1785%E2%80%931870)
+    - https://fr.wikipedia.org/wiki/Victor_de_Broglie_(1785-1870)
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, François Pierre Guillaume
+    - Guizot, Monsieur (François)
+    - Guizot, Francois Pierre Guillaume
+    - Guisot, M. (François)
+    - Guizot, M. (François)
+    - Guizot, FranÃ§ois
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Guizot
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+description: ''
+gutenberg_issued: '2020-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dramatists, English -- Early modern, 1500-1700 -- Biography'
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcc 'PR'
+- !lcsh 'Stratford-upon-Avon (England) -- Biography'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stage history -- France'
+- GITenberg
+title: Shakspeare and His Times
+url: http://www.gutenberg.org/ebooks/62602
